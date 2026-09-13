@@ -1,4 +1,4 @@
-const CACHE = 'gestao-sistemas-shell-v2';
+const CACHE = 'gestao-sistemas-shell-v3';
 const ASSETS = [
   './',
   './index.html',

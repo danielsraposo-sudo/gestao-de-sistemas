@@ -1,0 +1,10 @@
+# Dados locais e backups
+*.json
+backup*
+RECUPERACAO*
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
